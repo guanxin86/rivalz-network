@@ -9,4 +9,5 @@ rivalz tun
 ```
 ### 
 ## 仪表盘
+*每天任务*
 [dashboard](https://rivalz.ai/dashboard)
